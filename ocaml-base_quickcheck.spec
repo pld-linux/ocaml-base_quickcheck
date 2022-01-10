@@ -58,7 +58,7 @@ używających biblioteki base_quickcheck.
 
 %package devel
 Summary:	Randomized testing framework, designed for compatibility with Base - development part
-Summary(pl.UTF-8):	Szkielet testów losowych, zaprojektowany jako zgodny z Base - cześć programistyczna
+Summary(pl.UTF-8):	Szkielet testów losowych, zaprojektowany jako zgodny z Base - część programistyczna
 Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 %requires_eq	ocaml
